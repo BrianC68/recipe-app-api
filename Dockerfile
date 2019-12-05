@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Brian Christensen
+LABEL "com.example.author"="Brian Christensen"
 
 ENV PYTHONUNBUFFERED 1
 
