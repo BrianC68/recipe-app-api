@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "C:\\Users\\brian\\AppData\\Local\\Continuum\\anaconda3\\envs\\myDjangoEnv\\python.exe",
-    "files.eol": "\n"
+    "files.eol": "\r\n"
 }
